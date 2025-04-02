@@ -1,0 +1,11 @@
+Placeholder Image Instructions
+
+This application requires a placeholder image for the crawler visualization. To set it up:
+
+1. Create a simple transparent or gray PNG image sized 600x400 pixels named "placeholder.png"
+2. Save it in this directory (assets/placeholder.png)
+3. The placeholder will be shown when no screenshots are available
+
+Alternately, you can use a public domain or CC0 licensed image from a site like Unsplash or Pexels.
+
+If the placeholder image is missing, the application will still function but the screenshot viewer will show a broken image. 

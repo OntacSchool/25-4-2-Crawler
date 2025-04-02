@@ -1,0 +1,109 @@
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:15:31"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:15:32"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:15:32"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:15:32"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:15:32"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:15:35"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:15:35"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:15:35"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:15:35"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:15:35"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:15:38"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:15:39"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:15:39"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:15:39"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:15:39"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:15:42"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:15:42"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:15:42"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:15:42"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:15:42"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:15:45"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:15:45"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:15:45"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:15:46"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:15:46"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:15:49"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:15:49"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:15:49"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:15:49"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:15:49"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:15:57"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:15:57"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:15:57"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:15:58"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:15:58"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:16:08"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:16:10"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:16:10"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:16:10"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:16:10"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:16:24"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:16:25"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:16:25"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:16:25"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:16:25"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Redis initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Initializing task manager","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Creating initial system tasks","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Set up Docker environment","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Configure environment variables","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Set up MongoDB and Redis","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Develop headless browser integration","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Implement infinite scroll handling","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Implement screenshot capture","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Add error handling and retry mechanisms","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Integrate Tesseract OCR","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Implement image preprocessing","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Develop keyword extraction","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Create responsive dashboard layout","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Implement task list component","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Build crawl status visualizer","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Implement keyword analytics dashboard","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Connect crawler with OCR pipeline","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Implement real-time updates","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Create system architecture documentation","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Document API endpoints","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"debug","message":"Created task: Write user guide","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Updated task dependencies","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Created 19 initial tasks","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Set up 7 task automation triggers","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Task manager initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Task manager initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Server running in production mode on port 3000","service":"web-crawler","timestamp":"2025-04-02 04:18:46"}
+{"level":"info","message":"Started crawl job 4adeefed-8aee-4717-bcdd-8415b822134e for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:20:13"}
+{"level":"info","message":"Started crawl job df5d3973-35ad-4714-98f5-cf18cac770db for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:20:16"}
+{"level":"info","message":"Started crawl job 5982ee62-e1a2-49fa-90e2-9a259aa3bdee for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:21:04"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Redis initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Initializing task manager","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Set up 7 task automation triggers","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Task manager initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Task manager initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Server running in production mode on port 3000","service":"web-crawler","timestamp":"2025-04-02 04:22:36"}
+{"level":"info","message":"Started crawl job 0ac3b8f4-08fa-44e1-9d38-c71bf12c8855 for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:22:49"}
+{"level":"info","message":"Started crawl job a6e03282-e5e9-49f0-9e36-3642fde6b15c for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:35:14"}
+{"level":"info","message":"Started crawl job 7ba921ae-1726-49f7-8a3d-84f341fc7636 for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:35:17"}
+{"level":"info","message":"Initial tasks created","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"MongoDB Connected: mongo","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"MongoDB connected successfully","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Redis client connected","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Redis connection test successful","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Redis initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Initializing task manager","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Set up 7 task automation triggers","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Task manager initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Task manager initialized successfully","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Server running in production mode on port 3000","service":"web-crawler","timestamp":"2025-04-02 04:35:53"}
+{"level":"info","message":"Started crawl job aef69e3d-be42-4976-971f-3b2cfef3b179 for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:35:59"}
+{"level":"info","message":"Started crawl job 51e581cd-daca-48b7-bdf5-5880da41ee83 for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:44:47"}
+{"level":"info","message":"Started crawl job a80a5c76-2b4b-436e-8376-e86c221f3e51 for URL: https://example.com","service":"web-crawler","timestamp":"2025-04-02 04:46:18"}
