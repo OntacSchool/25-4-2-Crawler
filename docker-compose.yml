@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  crawler:
+    build: .
+    container_name: web-crawler-system
+    ports:
+      - "3000:3000"  # API port
+      - "8080:8080"  # UI Dashboard port
+      - "5900:5900"  # VNC port for browser visualization
+    environment:
+      - NODE_ENV=production
+      - MONGODB_URI=mongodb://mongo:27017/crawler
+      - REDIS_URL=redis://redis:6379
+      - TESSERACT_PATH=/usr/bin/tesseract
+      - GEMINI_API_KEY=AIzaSyDmB-rOcxY_szn5S4FJh7QjWonws_AFQls
+      - DISPLAY=:99
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./assets:/app/assets
+    depends_on:
+      - mongo
+      - redis
+    restart: on-failure:5
+    # Enable shared memory for browsers
+    shm_size: '2gb'
+
+  mongo:
+    image: mongo:6
+    container_name: crawler-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    restart: always
+
+  redis:
+    image: redis:7
+    container_name: crawler-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    restart: always
+
+volumes:
+  mongo-data:
+  redis-data: 

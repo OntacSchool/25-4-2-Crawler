@@ -1,0 +1,44 @@
+{
+  "name": "web-crawler-system",
+  "version": "1.0.0",
+  "description": "Production-level containerized web crawler with headless browser, OCR, and dashboard",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "morgan": "^1.10.0",
+    "node-tesseract-ocr": "^2.2.1",
+    "pino": "^8.16.2",
+    "pino-pretty": "^10.2.3",
+    "playwright": "^1.40.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "redis": "^4.6.11",
+    "socket.io": "^4.8.1",
+    "uuid": "^9.0.1",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
